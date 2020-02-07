@@ -15,3 +15,4 @@ Updates:
 - If an artist has played at an insomniac curated show since January 1st (Does not include festivals). 
 - Social Media Presence: Example --> Artist_A posts a song on SoundCloud. Insomniac Events --> Shares/Reposts the song. 
 Higher reasoning to add Social Media presence: Anytime Insomniac Events, EDC Las Vegas, Pasquale Rotella, Insomniac Sub-brands: BassRush, BassCon Factory 93, Dreamstate or HARD events share/like or interact with artists. 
+- Easy one: Leaks of information or artists simply stating they are attending. 
