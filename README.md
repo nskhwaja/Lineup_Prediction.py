@@ -21,4 +21,6 @@ Higher reasoning to add Social Media presence: Anytime Insomniac Events, EDC Las
 - Another important criteria that causes some challenges are "B2B" and Alias sets:
 - When two artists play in the same set = B2B. 
 - Aliases of artists, for example: Svdden death playing a set, but having a VOYD set or Zhu playing a set and having a BLACKLIZT set. 
-- Also Tchami X Malaa No Redemptio... falls into B2B Criteria. 
+- Also Tchami X Malaa No Redemption... falls into B2B Criteria. 
+
+These kinds of sets can some times avoid radius clause. 
