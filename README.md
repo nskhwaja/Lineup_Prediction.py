@@ -1,3 +1,4 @@
+**On hold as I didnn't expect the lineup to come out 6 weeks earlier than previous lineup revials**
 # Lineup_Predictor_Model.py
 basic script updated to this past lineup (2019). 
 -Developed a Python Script using Pandas to count the number of appearances of artists performing at Electric Daisy Carnival (Las Vegas) from 2015 through 2019. From there I took the results and imported the results into Tableau to create visualizations.
