@@ -9,6 +9,10 @@ Adding in statements tracking artists who have played at events run by Insomniac
 Also looking to find trends of artists who gain bigger slots/headlining times throughout the year among different festivals and events. 
 
 
+Update (9/2/20)
+
+Well corona... gonna look for edc as well as smaller fests as everything festival lineup is a wild card now to develop accurate models for in 2021-2022
+
 Updates: 
 - Currently working on IF statements and loops for the following criteria:
 
