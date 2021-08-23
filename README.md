@@ -7,6 +7,7 @@ basic script updated to this past lineup (2019).
 Adding in statements tracking artists who have played at events run by Insomniac Events (Electric Forest, Countdown NYE, Beyond Wonderland, ETC.) to find patterns in artists who reoccure throughout the year, leading up to EDC Las Vegas.
 Also looking to find trends of artists who gain bigger slots/headlining times throughout the year among different festivals and events. 
 
+Database Table being built in Microsoft Azure-MySQL, will add insert code soon
 
 Update (9/2/20)
 
